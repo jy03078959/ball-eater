@@ -1,0 +1,15 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList" : [
+        "js/eventManager.js",
+        "js/game.js",
+        "js/config.js",
+        "js/resource.js",
+        "js/Scene.js",
+        "js/player.js"
+    ]
+
+}
